@@ -13,13 +13,6 @@ Mainly and in short, to explore in depth the details of ethereum smart contract 
 - testing using rinkeby testnet 
 - deployment to mainnet
 
-Organization of Code
---------------------
-- Web3 client: https://github.com/jrkosinski/crypto-champ/tree/master/client
-- Oracle: https://github.com/jrkosinski/crypto-champ/tree/master/boxing-oracle
-- Main Oracle Code: https://github.com/jrkosinski/crypto-champ/tree/master/boxing-oracle/contracts
-- Contract: https://github.com/jrkosinski/crypto-champ/tree/master/sports-bets
-- Main Contract Code: https://github.com/jrkosinski/crypto-champ/tree/master/sports-bets/contracts
 
 How it Works: Oracle
 --------------------
